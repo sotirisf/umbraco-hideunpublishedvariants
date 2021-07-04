@@ -338,9 +338,21 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+**/App_data/
+**/Media/
+**/Umbraco/
+**/Umbraco_Client/
+**/Web.Release.config
+**/Website/*.*
+**/Website/App_Plugins/OsmMaps
+**/Website/App_Plugins/StarterKit/
+**/Website/config
+**/Website/css/
+**/Website/Properties/
+**/Website/scripts/
+**/Website/Views/
+**!/Website/App_Plugins/HideNodesFromTree
 
 
-**/Website/
-!**/Website/App_Plugins/HideNodesFromTree
 **/packages/
 *.sln
