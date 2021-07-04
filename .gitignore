@@ -341,5 +341,6 @@ healthchecksdb
 
 
 **/Website/
+!**/Website/App_Plugins/HideNodesFromTree
 **/packages/
 *.sln
